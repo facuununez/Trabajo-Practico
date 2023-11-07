@@ -10,3 +10,4 @@ Por su extension tenemos 4 tipos de redes:
 -PAN: (Personal Area Network) Red de Area Personal la usamos generalmente en casa para compartir datos entre dispositivos cercanos.
 
 
+
