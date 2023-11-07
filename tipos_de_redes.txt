@@ -1,0 +1,12 @@
+Redes:
+
+Por su extension tenemos 4 tipos de redes:
+-LAN: (Local Area Network) Red de Area Local es una red para oficinas, casas.
+
+-MAN: (Metropolitan Area Network) Red de Area Metropolitana es una red utilizada para conectar con distintas ciudades o provincias.
+
+-WAN: (World Area Network) Red de Area Mundial es una red que se utiliza en las grandes empresas multinacionales para comunicar distintas partes del mundo.
+
+-PAN: (Personal Area Network) Red de Area Personal la usamos generalmente en casa para compartir datos entre dispositivos cercanos.
+
+
